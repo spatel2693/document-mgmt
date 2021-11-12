@@ -7,8 +7,8 @@ This service aims to resolve document management by storing documents with pre-d
 
 The Repository contains 2 directory :
 
-- Back End - Support directory (document-mgmt-api)
-- Front End - Support directory ([document-mgmt-vue-app](https://github.com/spatel2693/document-mgmt-vue-app))
+- Back End - Support Repository (document-mgmt-api)
+- Front End - Support Repository ([document-mgmt-vue-app](https://github.com/spatel2693/document-mgmt-vue-app))
 
 
 
