@@ -19,7 +19,7 @@ The Repository contains 2 directory :
 ## Before Starting the App
 
 1. The service will only use local database, please make sure to update the credentials in [`dbConfig.js`](https://github.com/spatel2693/document-mgmt-api/blob/main/documentsDB.sql)  with the local database server of the current machine.
-2. In order to get records for testing data, make sure to ***run sql script - document-db.sql*** which is part of microservice and ensure that database is connected.
+2. In order to get records for testing data, make sure to [***run sql script - document-db.sql***](https://github.com/spatel2693/document-mgmt-api/blob/main/documentsDB.sql) which is part of microservice and ensure that database is connected.
 3. Since we are running this application locally, we will need to connect local db server with the application.
 4. Once connected - Start the BE microservice using command `npm start` in termnial.
 5. Once BE server has started successfully, Front End can be started by running `npm start` or `npm run serve`
